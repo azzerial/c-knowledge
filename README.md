@@ -4,10 +4,11 @@
 [license]: https://github.com/Azzerial/c-knowledge/tree/master/LICENSE
 [license-shield]: https://img.shields.io/badge/License-Apache--2.0-lightgray
 
-![plateform]
-![distribution]
-![gcc]
-[ ![license-shield][] ][license]
+![plateform][]
+![distribution][]
+![gcc][]
+[![license-shield][]][license]
 
 # C-Knowledge
 A compilation of things I've learned in C.
+
