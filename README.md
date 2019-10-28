@@ -10,5 +10,9 @@
 [![license-shield][]][license]
 
 # C-Knowledge
+
 A compilation of things I've learned in C.
 
+## Note
+
+You can find all sorts of chunks of codes I use or just find cool in the **[`samples/`](https://github.com/Azzerial/c-knowledge/tree/master/samples)** folder.
