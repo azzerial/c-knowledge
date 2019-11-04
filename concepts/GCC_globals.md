@@ -4,7 +4,7 @@ Here's a list of useful GCC globals and predefined macros:
 
 
 
-##### **`__FILE__`** 
+##### `__FILE__`
 
 The name/path of the current file.
 
@@ -12,7 +12,7 @@ The name/path of the current file.
 
 
 
-##### **`__LINE__`** 
+##### `__LINE__`
 
 The line index in the current file.
 
@@ -20,7 +20,7 @@ The line index in the current file.
 
 
 
-##### **`__FUNCTION__`**
+##### `__func__` or `__FUNCTION__`
 
 The name of the current function if any.
 
@@ -28,7 +28,7 @@ The name of the current function if any.
 
 
 
-##### **`__DATE__`**
+##### `__DATE__`
 
 The date on which the program started running. (format: `MMM DD YYYY`)
 
@@ -36,7 +36,7 @@ The date on which the program started running. (format: `MMM DD YYYY`)
 
 
 
-##### **`__TIME__`**
+##### `__TIME__`
 
 The time at which the program started running. (format: `HH:MM:SS`)
 
